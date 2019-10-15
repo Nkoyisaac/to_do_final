@@ -13,7 +13,7 @@ Enter the task as well as its due date.
 * JQuery
 * AJAX
 ## Authors
-*Oselu 
+*Isaac
 ## Acknowledgments
 Thank you to the following helpful resources
 * TalkersCode - [Add, Edit And Delete Records Using jQuery, Ajax, PHP And MySQL](http://talkerscode.com/webtricks/add-edit-and-delete-records-using-jquery-ajax-php-and-mysql.php)
