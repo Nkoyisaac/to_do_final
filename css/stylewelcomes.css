@@ -3,17 +3,17 @@
 
 
 body{
-    background-image: url(../images/todobackground.jpg);
+    background-image: url(../images/underwater.jpg);
     background-position: center;
     background-size: cover;
 }
 .welcome-nav{
     font-family: 'Notable', sans-serif;
-    background:rgba(206, 72, 31, 0.9);
+    background:rgba(172, 231, 165, 0.9);
 }
 .delta{
     height:50px;
-    width:50px;
+    width:60px;
 }
 .container{
     max-width:700px;
@@ -33,11 +33,11 @@ input[type=text],
 input[type=text]:focus{
     color:#fff;
     border:none;
-    background: rgba(0, 0, 0, 0.2);
+    background: rgba(2, 2, 2, 0.2);
     max-width:600px;
 }
 .todos li{
-    background:#423a6f;
+    background:rgba(172, 231, 165, 0.9);
 }
 
 

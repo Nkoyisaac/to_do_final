@@ -30,7 +30,7 @@ $username = $_SESSION["username"];
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css">
     <script src="https://kit.fontawesome.com/0cd95c0d58.js" crossorigin="anonymous"></script>
     <!--Custom CSS-->
-    <link rel="stylesheet" type="text/css" href="./css/stylewelcome.css">
+    <link rel="stylesheet" type="text/css" href="./css/stylewelcomes.css">
 
     <title>Welcome <?php echo $username;?></title>
     <link rel="shortcut icon" type="image/png" href="./images/favicon.png">
@@ -38,7 +38,7 @@ $username = $_SESSION["username"];
 <body>
     <header>
     <nav class="navbar navbar-expand-lg navbar-light welcome-nav">
-            <a class="navbar-brand" href="#"><img class="delta"src="./images/open_delta.png"></a>
+            <a class="navbar-brand" href="#"><img class="delta"src="./images/illumina.jpg"></a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
