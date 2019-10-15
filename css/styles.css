@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css?family=Notable&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Notable|Teko&display=swap');
+font-family: 'Notable', sans-serif;
+
+font-family: 'Notable', sans-serif;
+font-family: 'Teko', sans-serif;
+
+
+.body{
+    background:rgba(143, 163, 201, 0.61);
+}
+.login-body{
+    background-image:url(../images/futuristic.jpg);
+    background-position: center;
+    background-size: cover;
+
+}
+.register-body{
+    background-image:url(../images/futuristic.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.login-page-container{
+    min-height: 75vh;
+    display:flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+}
+.login-title >h1{
+    font-family: 'Notable', sans-serif;
+    color:rgba(234, 199, 245, 0.973);
+}
+.login-title > p{
+    font-family: 'Notable', sans-serif;
+    color:rgba(234, 199, 245, 0.973);
+}
+.register-title >h1{
+    font-family: 'Notable', sans-serif;
+    color:rgba(234, 199, 245, 0.973);
+}
+.form-container{
+    width:500px;
+    background-color: rgb(161, 183, 231);
+    border-radius: 10px;
+    padding: 2rem;
+}
+label{
+    font-family: 'Teko', sans-serif;
+    font-size:2rem;
+
+}
+.sign-in-btn{
+    font-size:1.5rem;
+    font-family: 'Teko', sans-serif;
+    background-color:rgba(234, 199, 245, 0.973);
+}
+.sign-up{
+    font-family: 'Teko', sans-serif;
+}

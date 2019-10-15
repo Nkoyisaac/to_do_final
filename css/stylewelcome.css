@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css?family=Notable|Teko&display=swap');
+
+
+
+body{
+    background-image: url(../images/todobackground.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.welcome-nav{
+    font-family: 'Notable', sans-serif;
+    background:rgba(206, 72, 31, 0.9);
+}
+.delta{
+    height:50px;
+    width:50px;
+}
+.container{
+    max-width:700px;
+}
+.main-heading{
+    font-family: 'Teko', sans-serif;
+}
+
+.form-header{
+    font-family: 'Teko', sans-serif;
+    color:#fff;
+}
+.form-header >span{
+    font-family: 'Teko', sans-serif;
+}
+input[type=text],
+input[type=text]:focus{
+    color:#fff;
+    border:none;
+    background: rgba(0, 0, 0, 0.2);
+    max-width:600px;
+}
+.todos li{
+    background:#423a6f;
+}
+
+
+.fa-input { 
+    font-family: "Font Awesome 5 Free", ‘Helvetica Neue’, Helvetica, Arial, sans-serif; 
+}
+.delete{
+    color:white;
+    cursor:pointer;
+}
+.check{
+    color:white;
+}
+.complete{
+    background:rgba(60, 153, 72, 0.287)!important;
+    /* text-decoration: line-through red; */
+}
+.filtered{
+    display:none!important;
+}
+
+
